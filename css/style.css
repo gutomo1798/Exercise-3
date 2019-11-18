@@ -1,0 +1,143 @@
+* {
+
+	margin: 0;
+	padding: 0;
+}
+
+body {
+	background:url(../images/bg.jpg);
+}
+
+
+
+#wrapper {
+	width: 750px;
+	margin: auto;
+	height: 1050px;
+	background: url(../images/bgcontainer.jpg);
+	background-repeat:no-repeat;
+	background-size: 100% 100%;
+
+}
+
+#wrapper #menu {
+	
+    background: url(../images/bgcontent.gif);
+	background-size: 96.2%;
+	height: 80px;
+	background-repeat: no-repeat;
+	margin-left: 25px;
+	text-align: center;
+}
+#wrapper #menu  ul {
+	list-style-type: none;
+}
+
+#wrapper #menu ul li {
+display: inline-table;
+padding-right: 20px;
+margin-top: 20px;
+
+}
+
+
+#wrapper #menu a{
+	color:black;
+	font-weight: bold;
+}
+
+#wrapper #Top-image img {
+	width: 700px;
+	height: 170px;
+	margin-left: 30px; 
+	margin-top: 20px;
+}
+
+#wrapper #content {
+	width: 690px;
+	height: 700px;
+	margin-left: 30px;
+}
+#wrapper #content h1 {
+	font-size: 25px;
+	margin-left: 15px;
+	margin-top: 20px;
+}
+
+.cap {
+	font-size: 35px;
+}
+
+
+#wrapper #content h2 {
+	font-size: 15px;
+	margin-left: 25px;
+}
+
+#wrapper #content p {
+	margin-left: 10px;
+	margin-top: 10px;
+	text-align: justify;
+	margin-right: 10px;
+}
+
+#wrapper #content p img {
+	margin-right: 10px;
+}
+
+#wrapper #content .divider {
+	background: url(../images/divider.gif);
+	height: 20px;
+	margin: 20px auto;
+	width: 560px;
+}
+
+blockquote {
+	background: url(../images/quote.gif) no-repeat;
+	color: #555;
+	font: norma 18px serif;
+	padding-left: 22px; 
+	margin-top: 20px;
+	margin-bottom: 20px;
+}
+
+#wrapper #footer {
+	background: url(../images/bgfooter.gif);
+	background-size: 96.2%;
+	height: 50px;
+	background-repeat: no-repeat;
+	margin-left: 25px;
+	text-align: center;
+}
+
+#wrapper #footer p {
+	margin-top: 10px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
